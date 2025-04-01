@@ -4,7 +4,7 @@
 #único tipo de bebida, fuma una sola marca de cigarrillos y tiene una
 #mascota diferente a sus vecinos.  A partir de las 15 pistas
 #presentadas a continuación, la consigna que hay que responder es:
-#"¿Quién es el dueño del pez?".
+#"¿Quién es el dueño del pez?"
  
 #El británico vive en la casa roja.
 #El sueco tiene un perro como mascota.
